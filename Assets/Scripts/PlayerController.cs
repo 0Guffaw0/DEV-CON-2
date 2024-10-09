@@ -89,6 +89,11 @@ public class PlayerController : MonoBehaviour
         {
             SceneManager.LoadScene("Level3");
         }
+
+        if (collision.gameObject.tag == "endGate2")
+        {
+            SceneManager.LoadScene("End");
+        }
     }
 
     private void TimeUp()

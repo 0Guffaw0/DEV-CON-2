@@ -6,6 +6,7 @@ TagManager:
   tags:
   - endGate
   - endGate1
+  - endGate2
   layers:
   - Default
   - TransparentFX
