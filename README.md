@@ -27,10 +27,7 @@ Power-up (Hedgetrimmers/Pesticide) that removes some of the stalking shrub.
 ### Sources:
 
 **Base Assets:** 
-(insert links and desc here)
-
-**Bonus Assets:** 
-(insert links and desc here)
+[(Grid Based Movement in Unity Tutorial and Asset Pack)](https://www.youtube.com/watch?v=mbzXIOKZurA)
 
 ### Rough Notes:
 *(This is for our rough notes taken during meetings/class/etc. as it relates to the contract. As such, optimal formatting is not a priority here - copy and paste as you like!)*
